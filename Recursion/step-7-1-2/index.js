@@ -28,4 +28,4 @@ var myPow = function (x, n) {
   } else return result;
 };
 
-console.log(myPow(2.0, -2));
+console.log(myPow(5, 25));
